@@ -1,0 +1,59 @@
+2025-09-06 21:34:32 [INFO] JamFinder - Sistema di logging JamFinder inizializzato
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272287]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Violino]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272471]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272471]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272486]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272488]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Chitarra]
+2025-09-06 21:34:32 [WARNING] JamFinder - Tentativo creazione utente con nome non valido: null
+2025-09-06 21:34:32 [WARNING] JamFinder - Tentativo creazione utente con nome non valido: 
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272506]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Chitarra]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Chitarra]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272523]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Chitarra]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Basso]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Batteria]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Piano]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272528]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: JamSession [ID: jam_1757187272537]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272570]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272572]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: JamSession [ID: jam_1757187272572]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272577]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Chitarra]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272595]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272595]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Basso]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Batteria]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272606]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Utente [ID: user_1757187272606]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Piano]
+2025-09-06 21:34:32 [FINE] JamFinder - Factory created: Strumento [ID: Violino]
+2025-09-06 21:34:32 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per nome/cognome - Criterio: Mario
+2025-09-06 21:34:32 [INFO] JamFinder - Ricerca completata: 1 risultati trovati
+2025-09-06 21:34:32 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per nome/cognome - Criterio: Mar
+2025-09-06 21:34:32 [INFO] JamFinder - Ricerca completata: 2 risultati trovati
+2025-09-06 21:34:32 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per strumento suonato - Criterio: Chitarra
+2025-09-06 21:34:32 [INFO] JamFinder - Ricerca completata: 1 risultati trovati
+2025-09-06 21:34:32 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per strumento suonato - Criterio: Corde
+2025-09-06 21:34:32 [INFO] JamFinder - Ricerca completata: 2 risultati trovati
+2025-09-06 21:34:32 [INFO] JamFinder - Strategia ricerca cambiata: Ricerca utenti per strumento suonato
+2025-09-06 21:34:48 [INFO] JamFinder - Sistema di logging JamFinder inizializzato
+2025-09-06 21:34:48 [INFO] JamFinder - === AVVIO JAMFINDER ===
+2025-09-06 21:34:48 [FINE] JamFinder - Factory created: Utente [ID: user_1757187288586]
+2025-09-06 21:34:48 [FINE] JamFinder - Factory created: Utente [ID: user_1757187288602]
+2025-09-06 21:34:48 [FINE] JamFinder - Factory created: JamSession [ID: jam_1757187288604]
+2025-09-06 21:34:48 [INFO] JamFinder - Iniziando operazioni I/O per persistenza dati
+2025-09-06 21:34:48 [INFO] JamFinder - I/O Success: Salvataggio utenti - data/utenti.txt
+2025-09-06 21:34:48 [INFO] JamFinder - I/O Success: Salvataggio strumenti - data/strumenti.txt
+2025-09-06 21:34:48 [INFO] JamFinder - I/O Success: Esportazione statistiche - data/statistiche.txt
+2025-09-06 21:34:48 [INFO] JamFinder - Caricati 2 utenti e 3 strumenti da file
+2025-09-06 21:34:48 [WARNING] JamFinder - Tentativo creazione utente con nome non valido: 
+2025-09-06 21:34:48 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per nome/cognome - Criterio: Marco
+2025-09-06 21:34:48 [INFO] JamFinder - Ricerca completata: 1 risultati trovati
+2025-09-06 21:34:48 [INFO] JamFinder - Strategia ricerca cambiata: Ricerca utenti per strumento suonato
+2025-09-06 21:34:48 [FINE] JamFinder - Eseguendo ricerca con: Ricerca utenti per strumento suonato - Criterio: Chitarra
+2025-09-06 21:34:48 [INFO] JamFinder - Ricerca completata: 1 risultati trovati
+2025-09-06 21:34:48 [INFO] JamFinder - === JAMFINDER TERMINATO ===
