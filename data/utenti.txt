@@ -1,0 +1,4 @@
+# File utenti JamFinder
+# Formato: nome|cognome|email
+Marco|Rossi|marco@email.com
+Lucia|Verdi|lucia@email.com

@@ -1,0 +1,34 @@
+# File di verifica interna - NON includere nel repository
+check.txt
+
+# File temporanei e di build
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+data/*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~

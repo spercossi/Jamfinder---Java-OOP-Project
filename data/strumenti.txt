@@ -1,0 +1,5 @@
+# File strumenti JamFinder
+# Formato: nome|categoria
+Batteria|Percussioni
+Basso|Corde
+Chitarra|Corde

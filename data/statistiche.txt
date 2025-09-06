@@ -1,0 +1,10 @@
+=== STATISTICHE JAMFINDER ===
+Data: Sat Sep 06 21:34:48 CEST 2025
+
+UTENTI REGISTRATI: 2
+- Marco Rossi (2 strumenti)
+- Lucia Verdi (1 strumenti)
+
+STRUMENTI DISPONIBILI: 3
+- Corde: 2
+- Percussioni: 1
